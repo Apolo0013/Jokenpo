@@ -1,0 +1,1 @@
+from .interfacegrafica import InterfaceGrafica
